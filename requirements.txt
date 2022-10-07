@@ -7,7 +7,7 @@ Jinja2==3.0.3
 moviepy==1.0.3
 mutagen==1.45.1
 pytube==12.1.0
--e git+https://github.com/JeherillaJanwar/pytube#egg=pytube
+-e git+https://github.com/JeherillaJanwar/pytube@0ea34744a7adbd73607985be4937e13a774840be#egg=pytube
 SQLAlchemy==1.4.31
 Werkzeug==2.0.3
 youtube-search-python==1.6.2
